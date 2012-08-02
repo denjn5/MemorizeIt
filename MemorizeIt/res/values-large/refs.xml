@@ -1,0 +1,3 @@
+<resources>
+    <item type="layout" name="list">@layout/twopane</item>
+</resources>

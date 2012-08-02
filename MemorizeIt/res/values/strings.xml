@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MemorizeIt2</string>
+    <string name="title_text_detail">Text Detail</string>
+    <string name="title_text_list">Texts</string>
+
+</resources>
